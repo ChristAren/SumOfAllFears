@@ -1,11 +1,6 @@
 document.getElementById("btnSubmit").addEventListener("click", ranNums);
 
 
-
-
-
-
-
 function ranNums(){
     
 
